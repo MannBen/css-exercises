@@ -1,0 +1,18 @@
+.Red {
+    background-color: rgb(163, 19, 50);
+    opacity: .5t;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.Red#big{
+    font-size: 24px;
+}
+.blue {
+    color: blue;
+    font-size: 36px;
+}
+.green {
+    background-color: rgb(4, 128, 4);
+    font-size: 24px;
+    font-weight: bold;
+}
